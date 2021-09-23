@@ -30,7 +30,7 @@
 
   No starter code for the assignment.
 
-  ![Walkthrough1](../images/walkthrough.gif)
+  ![Walkthrough1](images\walkthrough.webm)
 
   ## License
     
